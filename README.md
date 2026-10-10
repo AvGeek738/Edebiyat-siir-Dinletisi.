@@ -4,6 +4,7 @@ Edebitat ödevi kapsamında gerekli dosyalar ve bilgiler bu github reposunda top
 
 İletişim: user.cloning938@passfwd.com
 
+6556c83d5b328dbaf32b1300ecf229dbc1a9c7ee7049bcd26b73d7f408bdddb9  siir-1.txt
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

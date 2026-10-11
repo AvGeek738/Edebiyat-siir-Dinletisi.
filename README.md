@@ -7,7 +7,7 @@ Edebiyat konuşma performansı ve sınavı için gereken ödev dosyaları ve ilg
 
 Fon Müziği için YouTube linkleri (Takip parametresiyle) : https://youtu.be/HLI5W-uQHI8?si=Q22ao7dn2srJmg3s, https://youtu.be/h5I2RfJcfic?si=krlvA8T7Ze2IJiL0
 
-Canva sunumu için link: https://canva.link/siir-dinletisi
+Canva sunumu için link: https://canva.link/siir-dinletisi, https://canva.link/ixn8fx59720n0ks
 
 Depo içinde gerekli dosyalar ayrıca bulunuyor zip şeklinde indirilerek veya clonelanarak kullanılabilir.
 

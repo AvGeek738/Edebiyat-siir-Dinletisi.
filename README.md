@@ -1,10 +1,19 @@
 # Edebiyat-siir-Dinletisi.
 
-Edebitat ödevi kapsamında gerekli dosyalar ve bilgiler bu github reposunda toplanmıştır. Repo ödevin tesliminden sonra kapatılacaktır.repo bilgisayar indirlerek veya clonelanarak kullanılabilir.
+Edebiyat konuşma performansı ve sınavı için gereken ödev dosyaları ve ilgili linkler bu github reposunda kolayca erişilmesi için ve teslim edilmesi için toplanmıştır. Repo 30 gün içinde kapanıcaktır.
 
-İletişim: user.cloning938@passfwd.com
+İletişim için e-posta adresi: user.cloning938@passfwd.com
 
-6556c83d5b328dbaf32b1300ecf229dbc1a9c7ee7049bcd26b73d7f408bdddb9  siir-1.txt
+
+Fon Müziği için YouTube linkleri (Takip parametresiyle) : https://youtu.be/HLI5W-uQHI8?si=Q22ao7dn2srJmg3s, https://youtu.be/h5I2RfJcfic?si=krlvA8T7Ze2IJiL0
+
+Canva sunumu için link: https://canva.link/siir-dinletisi
+
+Depo içinde gerekli dosyalar ayrıca bulunuyor zip şeklinde indirilerek veya clonelanarak kullanılabilir.
+
+
+
+PGP anahtarı: 
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
